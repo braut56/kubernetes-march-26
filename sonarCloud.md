@@ -2,8 +2,6 @@
 
 This guide explains how to onboard the `k8s-beginner-project` repository to SonarQube Cloud (sonarcloud.io) for continuous code quality and security analysis.
 
----
-
 ## 📋 Repository Details
 
 | Field | Value |
