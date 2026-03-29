@@ -308,10 +308,6 @@ k8s-beginner-project/
 - **SonarCloud Documentation:** https://docs.sonarcloud.io
 - **GitHub Actions for SonarCloud:** https://github.com/SonarSource/sonarcloud-github-action
 
----
-
-## 📺 Video Tutorial
-
 Watch the full tutorial on YouTube:
 **Thetips4you** → https://youtube.com/@Thetips4you
 
